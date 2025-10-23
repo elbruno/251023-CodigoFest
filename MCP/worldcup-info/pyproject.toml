@@ -1,0 +1,12 @@
+[project]
+name = "worldcup_2026_info"
+version = "0.1.0"
+description = "MCP server providing FIFA World Cup 2026 information"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp==1.4.1"
+]
+
+[project.optional-dependencies]
+dev = ["debugpy==1.8.8"]
