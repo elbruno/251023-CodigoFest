@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AgentFx-01/AgentFx-01.csproj" Id="d6f2e10f-09c4-46ca-a62a-0bc80f9de2c2" />
+  <Project Path="AgentFx-02/AgentFx-02.csproj" Id="bd187605-0aef-4e50-b180-03bd89c92eaf" />
+  <Project Path="AgentFx-03/AgentFx-03.csproj" Id="2a6f4266-9744-4780-a504-7ffa649b0d20" />
+</Solution>
